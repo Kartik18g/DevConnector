@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://kartik123:kartik123@devconnectorcourse.xn9xn.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken": "ThisisaJWTtoken",
+    "githubClientId": "8ef14fbd0a89adcf5080",
+    "githubSecret": "3a443acb8582686542167e236e9ca8880b7b0070"
+}
